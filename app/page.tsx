@@ -154,7 +154,7 @@ export default function Home() {
                     rel="noopener noreferrer"
                     className="text-yellow-300 relative group px-0 py-1"
                   >
-                    @codebygk.
+                    Gopalakrishnan.
                     <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-yellow-300 transition-all duration-300 ease-in-out group-hover:w-full"></span>
                   </a>
                 </p>
