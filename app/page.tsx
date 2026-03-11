@@ -149,19 +149,19 @@ export default function Home() {
               <div>
                 <p className="text-white">
                   Opensource google dork engine developed by <a
-                    href="http://linkedin.com/in/gobeecode"
+                    href="http://linkedin.com/in/codebygk"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-yellow-300 relative group px-0 py-1"
                   >
-                    @gobeecode.
+                    @codebygk.
                     <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-yellow-300 transition-all duration-300 ease-in-out group-hover:w-full"></span>
                   </a>
                 </p>
                 <p className="text-white">If you like my work, consider supporting me!</p>
               </div>
               <div className="flex items-center justify-center gap-2">
-                <a href="https://razorpay.me/@gobeecode" target="_blank" className="mt-2 ">
+                <a href="https://razorpay.me/@codebygk" target="_blank" className="mt-2 ">
                   <Button className="cursor-pointer bg-yellow-300 text-gray-800 hover:bg-yellow-400"><Code2Icon /> Donate </Button>
                 </a>
                 <a href="https://gopalakrishnan.vercel.app" target="_blank" className="mt-2">
